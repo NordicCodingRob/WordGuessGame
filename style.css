@@ -1,0 +1,45 @@
+p {
+    font-family: 'Gugi', cursive, 'Gugi', cursive;
+    text-align: center;
+    font-size: 29px;
+    text-shadow: -3px 2px 3px white;
+    color: black;
+}
+
+h1 {
+    height: 150px;
+    border: 1px solid black;
+    width: 80%;
+    border-style: ridge;
+    border-color: #e3849d;
+    border-width: 20px;
+    font-size: 65px;
+    margin: 0 auto;
+    text-shadow: -2px 2px 3px #ff2d95;
+    text-align: center;
+    background-color: #6fcb9f;
+    box-shadow: 2px 2px 1px black;
+}
+
+
+.body{
+    height: 150px;
+    width: 80%;
+    font-size: 15px;
+    margin: 0 auto;
+    text-shadow: -2px 2px 3px #ff2d95;
+    text-align: center;
+    background-color: #6fcb9f;
+box-shadow: 2px 2x 1px black;
+background-color: #6fcb9f;
+margin-bottom: 200px;
+border-spacing: 80%
+}
+
+body{
+    background-image: -webkit-linear-gradient(top left, red, yellow, green 60%, purple 60%, blue);
+   
+}
+
+
+
